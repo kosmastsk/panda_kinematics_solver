@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>panda_kinematics_solver</name>
+  <version>0.0.0</version>
+  <description>The panda_kinematics_solver package</description>
+
+  <maintainer email="kosmas@todo.todo">kosmas</maintainer>
+
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <!-- <url type="website">http://wiki.ros.org/panda_kinematics_solver</url> -->
+
+  <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <build_depend>eigen</build_depend>
+  <depend>moveit_core</depend>
+  <depend>sensor_msgs</depend>
+  
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
